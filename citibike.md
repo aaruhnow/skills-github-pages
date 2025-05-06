@@ -4,7 +4,7 @@ title: Citi Bike Strategy Case Study
 
 # Citi Bike Strategy Dashboard – Case Study
 
-## 📌 Project Overview
+## Project Overview
 
 Citi Bike users often face bike shortages during certain times and locations. This case study explores key data-driven insights to address availability gaps and guide expansion efforts.
 
@@ -16,7 +16,7 @@ Citi Bike users often face bike shortages during certain times and locations. Th
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify high-demand stations and usage trends
 - Understand weather’s impact on ridership
@@ -25,23 +25,33 @@ Citi Bike users often face bike shortages during certain times and locations. Th
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### 1. Most Popular Stations
 Bar chart showing top 20 bike stations with seasonal filtering.  
 **Insight:** High-demand stations clustered near major avenues, parks, and transit hubs — especially in Central and Lower Manhattan.
 
+![Top 20 Most Popular Stations](images/Top_20_most_popular_stations.png)
+
+---
+
 ### 2. Monthly Trends + Weather Correlation
 Dual-axis line chart comparing trip volume and average temperature.  
 **Insight:** Ridership peaks from May–October and declines with colder weather. Weather significantly influences usage.
+
+![Weather and Bike Usage](images/Weather_and_bike_usage.png)
+
+---
 
 ### 3. Trip Density & Station Distribution
 Geospatial heatmaps and distribution maps using Kepler.gl.  
 **Insight:** Central Manhattan, Jersey City, and Brooklyn show high traffic; Northern Manhattan shows potential service gaps.
 
+![Aggregated Bike Trips in NY](images/Aggregated_bike_trips_in_NY.png)
+
 ---
 
-## 🧩 Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -52,10 +62,11 @@ Geospatial heatmaps and distribution maps using Kepler.gl.
 
 ---
 
-## ✅ Conclusions & Recommendations
+## Conclusions & Recommendations
 
 - **Seasonal Optimization:** Reduce bike inventory 20–30% in winter; use weather data for demand forecasting.
 - **Redistribution:** Balance bike supply in high-traffic areas using predictive models.
 - **Expansion Opportunities:** Add capacity near parks, waterfronts, and underserved areas in Northern Manhattan and outer boroughs.
 
 ---
+
