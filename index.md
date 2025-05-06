@@ -1,3 +1,6 @@
+---
+title: Home
+---
 
 # Andrew Ruhnow | Data Analyst
 
