@@ -18,8 +18,7 @@ Welcome! I'm Andrew Ruhnow, a data analyst with over 10 years of experience in w
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/aruhnow)
-- [GitHub](https://github.com/aaruhnow)
+- Email: [aaruhnow@gmail.com](mailto:aaruhnow@gmail.com)
 
 ---
 
