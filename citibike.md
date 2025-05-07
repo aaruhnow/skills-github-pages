@@ -2,8 +2,6 @@
 title: Citi Bike Strategy Case Study
 ---
 
-# Citi Bike Strategy Dashboard – Case Study
-
 ## Project Overview
 
 Citi Bike users often face bike shortages during certain times and locations. This case study explores key data-driven insights to address availability gaps and guide expansion efforts.
