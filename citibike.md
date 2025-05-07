@@ -28,26 +28,32 @@ Citi Bike users often face bike shortages during certain times and locations. Th
 ## Visualizations
 
 ### 1. Most Popular Stations
-Bar chart showing top 20 bike stations with seasonal filtering.  
-**Insight:** High-demand stations clustered near major avenues, parks, and transit hubs — especially in Central and Lower Manhattan.
+Bar chart showing the top 20 most-used Citi Bike stations in NYC, highlighting hotspots near major avenues, parks, and transit hubs.
 
-![Top 20 Most Popular Stations](images/Top_20_most_popular_stations.png)
+<a href="images/Top_20_most_popular_stations.png" target="_blank">
+  <img src="images/Top_20_most_popular_stations.png" alt="Top 20 Most Popular Stations" width="80%">
+</a>
+<p style="text-align: center; font-style: italic;">Figure 1: Top 20 most popular Citi Bike stations in NYC.</p>
 
 ---
 
 ### 2. Monthly Trends + Weather Correlation
-Dual-axis line chart comparing trip volume and average temperature.  
-**Insight:** Ridership peaks from May–October and declines with colder weather. Weather significantly influences usage.
+Dual-axis chart comparing trip volume with daily average temperature to understand how weather impacts ridership.
 
-![Weather and Bike Usage](images/Weather_and_bike_usage.png)
+<a href="images/Weather_and_bike_usage.png" target="_blank">
+  <img src="images/Weather_and_bike_usage.png" alt="Weather and Bike Usage" width="80%">
+</a>
+<p style="text-align: center; font-style: italic;">Figure 2: Seasonal bike usage trends vs. average temperature.</p>
 
 ---
 
 ### 3. Trip Density & Station Distribution
-Geospatial heatmaps and distribution maps using Kepler.gl.  
-**Insight:** Central Manhattan, Jersey City, and Brooklyn show high traffic; Northern Manhattan shows potential service gaps.
+Kepler.gl map showing ride density and station placement across NYC, revealing underserved and high-demand areas.
 
-![Aggregated Bike Trips in NY](images/Aggregated_bike_trips_in_NY.png)
+<a href="images/Aggregated_bike_trips_in_NY.png" target="_blank">
+  <img src="images/Aggregated_bike_trips_in_NY.png" alt="Aggregated Bike Trips in NY" width="80%">
+</a>
+<p style="text-align: center; font-style: italic;">Figure 3: Heatmap of bike trip density across New York City.</p>
 
 ---
 
@@ -69,4 +75,3 @@ Geospatial heatmaps and distribution maps using Kepler.gl.
 - **Expansion Opportunities:** Add capacity near parks, waterfronts, and underserved areas in Northern Manhattan and outer boroughs.
 
 ---
-
