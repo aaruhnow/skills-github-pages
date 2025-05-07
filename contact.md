@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 # Contact Me
 
 I’d love to connect! Here’s how you can reach me:
