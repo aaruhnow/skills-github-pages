@@ -1,7 +1,3 @@
----
-title: About
----
-
 # About Me
 
 Hi, I’m Andrew a Data Analyst that has spent the last 10+ years working in Workforce Management, where I focused 
