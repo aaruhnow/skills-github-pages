@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # Andrew Ruhnow | Data Analyst
 
 Welcome! I'm Andrew Ruhnow, a data analyst with over 10 years of experience in workforce planning and a strong foundation in Python, SQL, Tableau, and data storytelling. I recently transitioned into analytics after completing the CareerFoundry Data Analytics program — bringing together operational expertise and technical skill to deliver actionable insights.
