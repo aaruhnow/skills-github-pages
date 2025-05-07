@@ -51,7 +51,7 @@ Kepler.gl map showing ride density and station placement across NYC, revealing u
 <a href="images/Aggregated_bike_trips_in_NY.png" target="_blank">
   <img src="images/Aggregated_bike_trips_in_NY.png" alt="Aggregated Bike Trips in NY" width="80%">
 </a>
-<p style="text-align: center; font-style: italic;">Figure 3: Heatmap of bike trip density across New York City.</p>
+<p style="text-align: center; font-style: italic;">Figure 3: Interactive map showing aggregated bike trips in New York City.</p>
 
 ---
 
