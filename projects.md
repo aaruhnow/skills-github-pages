@@ -2,8 +2,6 @@
 title: Projects
 ---
 
-# Projects
-
 Here are a few of the data projects I’ve worked on:
 
 ## Citi Bike Strategy Dashboard  
