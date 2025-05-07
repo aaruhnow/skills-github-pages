@@ -9,7 +9,7 @@ Analyzed NYC bike usage and weather trends to identify availability gaps and opt
 
 **Tools Used:** Python, Pandas, Plotly, Kepler.gl, Streamlit  
 
-<a href="https://citibike-fmhbftchuaccupm3umqrwa.streamlit.app/" target="_blank" rel="noopener noreferrer">View Project</a>
+<a href="https://citibike-fmhbftchuaccupm3umqrwa.streamlit.app/" target="_blank" rel="noopener noreferrer">View Interactive Dashboard</a>
 
 [Read Full Case Study](citibike.md)
 
