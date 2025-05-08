@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: default
 ---
+
 
 
 <!-- Meta tag for SEO -->
