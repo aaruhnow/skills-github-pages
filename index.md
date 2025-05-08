@@ -1,6 +1,8 @@
 ---
 title: Home
+layout: default
 ---
+
 
 <!-- Meta tag for SEO -->
 <meta name="description" content="Andrew Ruhnow’s data analytics portfolio – showcasing projects in Excel, Python, SQL, and Tableau — turning complex data into actionable insights.">
