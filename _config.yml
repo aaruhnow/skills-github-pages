@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Andrew Ruhnow | Data Analytics Portfolio
 author: Andrew Ruhnow
 description: Showcasing data-driven projects in Excel, Python, SQL, and Tableau — turning complex data into actionable insights.
