@@ -63,7 +63,9 @@ This visualization shows influenza death trends by U.S. state from 2009–2017.
 Deaths have remained consistent by state, and forecasts indicate this trend will continue into 2018–2019.
 
 <a href="/images/influenza-deaths-by-year.png" target="_blank"><img src="/images/influenza-deaths-by-year.png" alt="Deaths by year" width="600"></a>  
-<a href="/images/influenza-deaths-state-year.png" target="_blank"><img src="/images/influenza-deaths-state-year.png" alt="Deaths by state and year" width="600"></a>
+<a href="/images/influenza-forecast-deaths-state.png" target="_blank">
+  <img src="/images/influenza-forecast-deaths-state.png" alt="Forecasted influenza deaths by state and year" width="600">
+</a>
 
 ---
 
