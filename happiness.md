@@ -5,7 +5,49 @@ layout: default
 
 # World Happiness Report Analysis
 
-Analyzed data from 2015–2019 to uncover what drives happiness across the globe. The project explored six key contributing factors using Python, Tableau, and machine learning techniques.
+---
+
+##Introduction
+
+The World Happiness Report ranks over 150 countries by how happy their citizens perceive themselves to be. This project explores trends from 2015–2019 to uncover which social, economic, and political factors are most closely associated with national happiness.
+
+The goal was to support policy evaluation and regional recommendations by identifying the strongest contributors to happiness and understanding global disparities.
+
+---
+
+##Data & Skills
+
+**Data Sources:**
+- World Happiness Reports (2015–2019)
+- Over 780 rows of merged, multi-year data
+- Key fields: GDP, Social Support, Life Expectancy, Freedom, Trust, Generosity, and Happiness Score
+
+**Skills & Tools Used:**
+- **Python & Pandas:** Data cleaning, merging, and correlation analysis  
+- **Jupyter Notebook:** Exploratory analysis and plotting  
+- **Tableau:** Geospatial and interactive dashboard  
+- **Excel:** Initial inspection and formatting
+
+---
+
+##Project Planning
+
+1. **Merge & Clean Data:** Standardize column names and formats across 5 years  
+2. **Explore Trends:** Visualize happiness over time and across regions  
+3. **Identify Key Drivers:** Use correlation heatmaps and scatterplots  
+4. **Segment Countries:** Cluster countries based on factor influence  
+5. **Communicate Findings:** Build dashboard and write narrative insights
+
+---
+
+##Challenges & Solutions
+
+| Challenge | Solution |
+|----------|----------|
+| Inconsistent column names and missing values | Standardized columns and used `.fillna()` and `.dropna()` |
+| Difficulty comparing across years due to score scale shifts | Normalized values and created year-agnostic trends |
+| Multicollinearity among factors | Used pairplots and scatter matrices to explore overlap |
+| Tableau import failed initially | Cleaned dataset in Excel and exported as `.csv` |
 
 ---
 
@@ -38,9 +80,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 ##Cluster Analysis: Core Factors
 
 **Key Factors:**  
-- **Economy (GDP per Capita)**: Financial stability links closely to happiness.  
-- **Health (Life Expectancy)**: Longer life expectancy is tied to higher happiness.  
-- **Family (Social Support)**: Strong interpersonal relationships boost well-being.
+- **Economy (GDP per Capita)**  
+- **Health (Life Expectancy)**  
+- **Family (Social Support)**  
 
 **Key Insights:**
 - These factors had the highest correlation with happiness.
@@ -55,9 +97,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 ##Cluster Analysis: Supporting Factors
 
 **Key Factors:**  
-- **Freedom**: Mild positive correlation with happiness.  
-- **Generosity**: Very weak correlation.  
-- **Trust in Government**: Weak but positive trend.
+- **Freedom**  
+- **Generosity**  
+- **Trust in Government**  
 
 **Key Insights:**
 - These factors may enhance well-being when paired with core factors.
@@ -65,6 +107,14 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 
 <a href="/images/happiness-cluster-weak.png" target="_blank">
   <img src="/images/happiness-cluster-weak.png" alt="Cluster: Supporting Factors" width="100%">
+</a>
+
+---
+
+##Interactive Tableau Report
+
+<a href="https://public.tableau.com/views/WorldHappinessReport2015-2019_17177049296500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  View Tableau Report
 </a>
 
 ---
@@ -77,11 +127,8 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - Improving economic conditions, social services, and access to healthcare will raise national happiness.
 
 **Recommendations:**
-- Invest in job growth, healthcare, and community services.
-- Target support in regions with low GDP and life expectancy.
-
-<a href="https://public.tableau.com/views/WorldHappinessReport2015-2019_17177049296500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-  View Tableau Report
-</a>
+- Prioritize investments in healthcare and job growth.
+- Improve community and family support systems.
+- Use global leaders (e.g., Nordic countries) as models for policy-making.
 
 ---
