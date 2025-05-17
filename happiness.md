@@ -59,8 +59,9 @@ The goal was to support policy evaluation and regional recommendations by identi
 - The U.S. and Eastern Europe show moderate scores, reflecting mixed results.
 
 <a href="/images/happiness-map.png" target="_blank">
-  <img src="/images/happiness-map.png" alt="Geospatial Map" width="100%">
+  <img src="/images/happiness-map.png" alt="Geospatial Map" style="max-width:100%; height:auto;">
 </a>
+
 
 ---
 
@@ -72,12 +73,13 @@ The goal was to support policy evaluation and regional recommendations by identi
 - Freedom, Trust, and Generosity have weaker correlations, suggesting supporting rather than primary effects.
 
 <a href="/images/happiness-heatmap.png" target="_blank">
-  <img src="/images/happiness-heatmap.png" alt="Correlation Heatmap" width="100%">
+  <img src="/images/happiness-heatmap.png" alt="Correlation Heatmap" style="max-width:100%; height:auto;">
 </a>
+
 
 ---
 
-##Cluster Analysis: Core Factors
+##Cluster Analysis: Strong Factors
 
 **Key Factors:**  
 - **Economy (GDP per Capita)**  
@@ -89,8 +91,9 @@ The goal was to support policy evaluation and regional recommendations by identi
 - Financial, physical, and emotional security are key to life satisfaction.
 
 <a href="/images/happiness-cluster-strong.png" target="_blank">
-  <img src="/images/happiness-cluster-strong.png" alt="Cluster: Strong Factors" width="100%">
+  <img src="/images/happiness-cluster-strong.png" alt="Cluster: Strong Factors" style="max-width:100%; height:auto;">
 </a>
+
 
 ---
 
@@ -106,8 +109,9 @@ The goal was to support policy evaluation and regional recommendations by identi
 - Their impact alone is not strong but may help improve scores in already-stable countries.
 
 <a href="/images/happiness-cluster-weak.png" target="_blank">
-  <img src="/images/happiness-cluster-weak.png" alt="Cluster: Supporting Factors" width="100%">
+  <img src="/images/happiness-cluster-weak.png" alt="Cluster: Supporting Factors" style="max-width:100%; height:auto;">
 </a>
+
 
 ---
 
