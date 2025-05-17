@@ -16,7 +16,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - Sub-Saharan Africa, parts of South Asia, and the Middle East rank lowest.
 - The U.S. and Eastern Europe show moderate scores, reflecting mixed results.
 
-![Geospatial Map](/images/happiness-map.png)
+<a href="/images/happiness-map.png" target="_blank">
+  <img src="/images/happiness-map.png" alt="Geospatial Map" width="100%">
+</a>
 
 ---
 
@@ -27,7 +29,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - Economy (GDP), Family (support), and Health (life expectancy) show the strongest positive correlations with happiness.
 - Freedom, Trust, and Generosity have weaker correlations, suggesting supporting rather than primary effects.
 
-![Correlation Heatmap](/images/happiness-heatmap.png)
+<a href="/images/happiness-heatmap.png" target="_blank">
+  <img src="/images/happiness-heatmap.png" alt="Correlation Heatmap" width="100%">
+</a>
 
 ---
 
@@ -42,7 +46,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - These factors had the highest correlation with happiness.
 - Financial, physical, and emotional security are key to life satisfaction.
 
-![Cluster 1 - GDP, Health, Family](/images/happiness-cluster-core.png)
+<a href="/images/happiness-cluster-strong.png" target="_blank">
+  <img src="/images/happiness-cluster-strong.png" alt="Cluster: Strong Factors" width="100%">
+</a>
 
 ---
 
@@ -57,7 +63,9 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - These factors may enhance well-being when paired with core factors.
 - Their impact alone is not strong but may help improve scores in already-stable countries.
 
-![Cluster 2 - Freedom, Generosity, Trust](/images/happiness-cluster-support.png)
+<a href="/images/happiness-cluster-weak.png" target="_blank">
+  <img src="/images/happiness-cluster-weak.png" alt="Cluster: Supporting Factors" width="100%">
+</a>
 
 ---
 
@@ -72,8 +80,8 @@ Analyzed data from 2015–2019 to uncover what drives happiness across the globe
 - Invest in job growth, healthcare, and community services.
 - Target support in regions with low GDP and life expectancy.
 
-[View Tableau Dashboard](https://public.tableau.com/)  
-*Replace with your live dashboard link.*
+<a href="https://public.tableau.com/views/WorldHappinessReport2015-2019_17177049296500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  View Tableau Report
+</a>
 
 ---
-
