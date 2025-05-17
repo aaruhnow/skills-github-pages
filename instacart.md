@@ -90,7 +90,7 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 **Insights:**
 - Most products purchased are under $15
-- Price is highest 3–4 a.m., lowest around 9–10 a.m.
+- Price is highest 3–4 a.m. (03:00-04:00), lowest around 9–10 a.m. (09:00-10:00)
 
 ---
 
