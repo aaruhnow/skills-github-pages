@@ -74,7 +74,7 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 **Insights:**
 - Saturday is the busiest day; Sunday and Friday follow
-- Peak hours are 10 a.m. to 4 p.m.; slowest are 12 a.m. to 5 a.m.
+- Peak hours are 10 a.m. (10:00) to 4 p.m. (16:00); slowest are 12 a.m. (00:00) to 5 a.m. (05:00)
 
 ---
 
