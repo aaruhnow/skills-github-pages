@@ -39,3 +39,15 @@ Analyzed 32M+ grocery orders to uncover trends in customer behavior and guide ta
 <a href="https://docs.google.com/spreadsheets/d/1UiZfDS4s-9FotKKrEzLuZkkWU9IT5qaX/edit?usp=drive_link&ouid=102883752544520383313&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">View Final Report</a>
 
 [Read Full Case Study](instacart.md)
+
+
+---
+
+## Influenza Season Staffing Plan  
+Analyzed influenza mortality trends across U.S. states using CDC and Census data to forecast seasonal staffing needs for hospitals and clinics. Built visualizations in Tableau to identify high-risk regions and inform medical staff distribution during peak flu months.
+
+**Tools Used:** Excel, Tableau
+
+<a href="https://public.tableau.com/views/Exercise2_9StorytellingwithDataPresentationsAR/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">View Final Tableau Dashboard</a>
+
+[Read Full Case Study](influenza.md)
