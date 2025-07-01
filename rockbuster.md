@@ -57,9 +57,9 @@ Guide the online launch strategy by identifying trends in rental behavior, custo
 
 ### Key Resources
 
-- [SQL workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing)
-- [Data Dictionary (PDF)](https://drive.google.com/file/d/1LzBdImBS9PKPVOSFCPPx_tKVh8PDCNTM/view?usp=sharing)  
-- [Presentation Slides (PDF)](https://drive.google.com/file/d/17LiHyX6pENyIcblcrR24IJm0pAeOmVtt/view?usp=sharing)
+- <a href="https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing" target="_blank" rel="noopener noreferrer">SQL Query Workbook (Google Sheets)</a>  
+- <a href="https://drive.google.com/file/d/1LzBdImBS9PKPVOSFCPPx_tKVh8PDCNTM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data Dictionary (PDF)</a>  
+- <a href="https://drive.google.com/file/d/17LiHyX6pENyIcblcrR24IJm0pAeOmVtt/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation Slides (PDF)</a>
 
 ---
 
@@ -136,7 +136,5 @@ These recommendations are grounded in customer behavior trends, sales performanc
 ---
 
 Curious how I built the queries?  
-[View the full SQL workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing)
-
-
+<a href="https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View the full SQL workbook (Google Sheets)</a>
 
