@@ -60,7 +60,7 @@ Used SQL to help a classic video rental company transition to a digital model by
 
 **Tools Used:** PostgreSQL, SQL Joins, CTEs, Subqueries, PDF Reports, PowerPoint
 
-<a href="https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing" target="_blank" rel="noopener noreferrer">View SQL Workbook (PDF)</a>
+<a href="https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View SQL Workbook (Google Sheets)</a>
 
 [Read Full Case Study](rockbuster.md)
 
