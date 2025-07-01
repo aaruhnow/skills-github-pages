@@ -122,4 +122,3 @@ Customer volume closely mirrors sales performance — India, China, and the U.S.
 Curious how I built the queries?  
 [View the full SQL workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)
 
-[Back to Projects](/projects/)
