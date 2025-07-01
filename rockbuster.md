@@ -57,7 +57,7 @@ Guide the online launch strategy by identifying trends in rental behavior, custo
 
 ### Key Resources
 
-- [SQL Query Workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1IBAIeCuQp_VnrSV2a2VeyKurnmMoBjUu/edit?usp=drive_link)  
+- [SQL Query Workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)  
 - [Data Dictionary (PDF)](https://drive.google.com/file/d/1LzBdImBS9PKPVOSFCPPx_tKVh8PDCNTM/view?usp=sharing)  
 - [Presentation Slides (PDF)](https://drive.google.com/file/d/17LiHyX6pENyIcblcrR24IJm0pAeOmVtt/view?usp=sharing)
 
@@ -120,6 +120,6 @@ Customer volume closely mirrors sales performance — India, China, and the U.S.
 ---
 
 Curious how I built the queries?  
-[View the full SQL workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1IBAIeCuQp_VnrSV2a2VeyKurnmMoBjUu/edit?usp=drive_link)
+[View the full SQL workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)
 
 [Back to Projects](/projects/)
