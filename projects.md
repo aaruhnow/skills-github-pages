@@ -51,3 +51,15 @@ Analyzed influenza mortality trends across U.S. states using CDC and Census data
 <a href="https://public.tableau.com/views/Exercise2_9StorytellingwithDataPresentationsAR/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">View Final Tableau Dashboard</a>
 
 [Read Full Case Study](influenza.md)
+
+
+---
+
+## Rockbuster Stealth LLC – SQL Case Study  
+Used SQL to help a classic video rental company transition to a digital model by analyzing rental patterns, top-performing films, and high-value customers. Delivered strategic insights using PostgreSQL queries, a custom data dictionary, and a full business presentation.
+
+**Tools Used:** PostgreSQL, SQL Joins, CTEs, Subqueries, Google Sheets, PowerPoint
+
+<a href="https://docs.google.com/spreadsheets/d/1IBAIeCuQp_VnrSV2a2VeyKurnmMoBjUu/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">View SQL Workbook</a>
+
+[Read Full Case Study](rockbuster.md)
