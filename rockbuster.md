@@ -119,6 +119,22 @@ Customer volume closely mirrors sales performance — India, China, and the U.S.
 
 ---
 
+### Recommendations
+
+Based on the data analysis, the following actions are recommended to support Rockbuster’s 2020 digital launch strategy:
+
+- Send out surveys to customers in top-performing cities and countries to gather feedback on movie preferences, rental/streaming habits, and satisfaction.
+- Provide customer incentives (e.g., discounts, free rentals) for completing surveys.
+- Launch a Rockbuster points program to reward rentals, reviews, and referrals.
+- Focus marketing efforts on low-performing markets to boost engagement and brand awareness.
+- Use high lifetime value customers as beta testers for the online platform.
+- Phase out movies with consistently low sales and refresh inventory with top-performing new releases.
+- Expand G-rated inventory and target marketing toward the 1–13 age demographic to grow family engagement.
+
+These recommendations are grounded in customer behavior trends, sales performance, and geographic opportunity analysis.
+
+---
+
 Curious how I built the queries?  
 [View the full SQL workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)
 
