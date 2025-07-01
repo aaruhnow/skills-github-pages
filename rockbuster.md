@@ -57,7 +57,7 @@ Guide the online launch strategy by identifying trends in rental behavior, custo
 
 ### Key Resources
 
-- [SQL Query Workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)  
+- [SQL workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing)
 - [Data Dictionary (PDF)](https://drive.google.com/file/d/1LzBdImBS9PKPVOSFCPPx_tKVh8PDCNTM/view?usp=sharing)  
 - [Presentation Slides (PDF)](https://drive.google.com/file/d/17LiHyX6pENyIcblcrR24IJm0pAeOmVtt/view?usp=sharing)
 
@@ -136,5 +136,7 @@ These recommendations are grounded in customer behavior trends, sales performanc
 ---
 
 Curious how I built the queries?  
-[View the full SQL workbook (PDF)](https://drive.google.com/file/d/1DcaCNhzDNQU0AiXmg3LTDh4bl8RSKHqw/view?usp=sharing)
+[View the full SQL workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1ixn6sALsOoH24oDuvPn51KWFUUUmRoZW/edit?usp=sharing)
+
+
 
