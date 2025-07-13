@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-##Introduction
+## Introduction
 
 Instacart is an online grocery service with strong sales performance. This analysis was conducted to uncover customer behavior patterns, support marketing segmentation, and guide strategic decisions.
 
@@ -20,7 +20,7 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 ---
 
-##Data & Skills
+## Data and Skills
 
 **Data Summary:**
 - Final merged dataset: 32,434,489 rows and 33 columns
@@ -36,7 +36,7 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 ---
 
-##Project Planning
+## Project Planning
 
 **Data Source:** Instacart’s open grocery order dataset  
 **Tools Used:** Python (Pandas, NumPy, Seaborn), Jupyter Notebook
@@ -50,7 +50,7 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 ---
 
-##Challenges & Solutions
+## Challenges and Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -60,59 +60,83 @@ Instacart is an online grocery service with strong sales performance. This analy
 
 ---
 
-##Key Insights
+## Key Insights
 
-###Order Timing Patterns
+### Order Timing Patterns
 
 <a href="/images/instacart-busiest-days.png" target="_blank">
   <img src="/images/instacart-busiest-days.png" alt="Busiest Days" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/Instacart_Orders_Day_of_Week.png" target="_blank">
+  <img src="/images/Instacart_Orders_Day_of_Week.png" alt="Orders by Day of Week" style="max-width:100%; height:auto;">
 </a>
 
 <a href="/images/instacart-busiest-times.png" target="_blank">
   <img src="/images/instacart-busiest-times.png" alt="Busiest Times" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/Instacart_Orders_by_Hour.png" target="_blank">
+  <img src="/images/Instacart_Orders_by_Hour.png" alt="Orders by Hour of Day" style="max-width:100%; height:auto;">
+</a>
+
 **Insights:**
 - Saturday is the busiest day; Sunday and Friday follow
-- Peak hours are 10 a.m. (10:00) to 4 p.m. (16:00); slowest are 12 a.m. (00:00) to 5 a.m. (05:00)
+- Peak hours are 10 a.m. to 4 p.m.; slowest are 12 a.m. to 5 a.m.
 
 ---
 
-###Price Sensitivity
+### Price Sensitivity
 
 <a href="/images/instacart-price-hour-day.png" target="_blank">
   <img src="/images/instacart-price-hour-day.png" alt="Price by Hour" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/Instacart_prices_by_hour.png" target="_blank">
+  <img src="/images/Instacart_prices_by_hour.png" alt="Instacart Price by Hour" style="max-width:100%; height:auto;">
 </a>
 
 <a href="/images/instacart-price-frequency.png" target="_blank">
   <img src="/images/instacart-price-frequency.png" alt="Price Frequency" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/Instacart_product_prices.png" target="_blank">
+  <img src="/images/Instacart_product_prices.png" alt="Histogram of Product Prices" style="max-width:100%; height:auto;">
+</a>
+
 **Insights:**
 - Most products purchased are under $15
-- Price is highest 3–4 a.m. (03:00-04:00), lowest around 9–10 a.m. (09:00-10:00)
+- Price is highest between 3–4 a.m., and lowest around 9–10 a.m.
 
 ---
 
-###Customer Demographics
+### Customer Demographics
 
 <a href="/images/instacart-age.png" target="_blank">
   <img src="/images/instacart-age.png" alt="Age vs Income" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/Instacart_Age_Income.png" target="_blank">
+  <img src="/images/Instacart_Age_Income.png" alt="Age vs Income (Scatter)" style="max-width:100%; height:auto;">
+</a>
+
 <a href="/images/instacart-family-status.png" target="_blank">
-  <img src="/images/instacart-family-status.png" alt="Family Status & Age" style="max-width:100%; height:auto;">
+  <img src="/images/instacart-family-status.png" alt="Family Status by Age" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/Instacart_Family_Status.png" target="_blank">
+  <img src="/images/Instacart_Family_Status.png" alt="Orders by Family Status and Age" style="max-width:100%; height:auto;">
 </a>
 
 **Insights:**
 - Higher incomes observed in customers over 40
-- Most users are married, especially in adult/middle-age/senior brackets
+- Most users are married, especially in adult and senior age groups
 
 ---
 
-##Conclusions & Recommendations
+## Conclusions and Recommendations
 
-**Sales & Marketing Insights – Instacart**
+**Sales and Marketing Insights – Instacart**
 
 **Timing Strategy:**
 - Avoid outreach during peak hours (9 a.m.–4 p.m. Sat–Sun)
@@ -126,9 +150,8 @@ Instacart is an online grocery service with strong sales performance. This analy
   - $10–15
 
 **Target Demographics:**
-- **Income:** Focus premium campaigns on $100K–$300K earners; higher spenders are often 40+  
-- **Family:** Target adults managing dependents (under 20 or over 60)  
-- **Marital Status:** Prioritize campaigns for married, senior, and adult customers
+- Income: Focus premium campaigns on $100K–$300K earners; higher spenders are often 40+  
+- Family: Target adults managing dependents (under 20 or over 60)  
+- Marital Status: Prioritize campaigns for married, senior, and adult customers
 
 ---
-
