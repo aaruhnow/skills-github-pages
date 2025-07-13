@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-##Introduction
+## Introduction
 
 The World Happiness Report ranks over 150 countries by how happy their citizens perceive themselves to be. This project explores trends from 2015–2019 to uncover which social, economic, and political factors are most closely associated with national happiness.
 
@@ -15,32 +15,32 @@ The goal was to support policy evaluation and regional recommendations by identi
 
 ---
 
-##Data & Skills
+## Data and Skills
 
 **Data Sources:**
 - World Happiness Reports (2015–2019)
 - Over 780 rows of merged, multi-year data
 - Key fields: GDP, Social Support, Life Expectancy, Freedom, Trust, Generosity, and Happiness Score
 
-**Skills & Tools Used:**
-- **Python & Pandas:** Data cleaning, merging, and correlation analysis  
-- **Jupyter Notebook:** Exploratory analysis and plotting  
-- **Tableau:** Geospatial and interactive dashboard  
-- **Excel:** Initial inspection and formatting
+**Skills and Tools Used:**
+- Python and Pandas: Data cleaning, merging, and correlation analysis  
+- Jupyter Notebook: Exploratory analysis and plotting  
+- Tableau: Geospatial and interactive dashboard  
+- Excel: Initial inspection and formatting
 
 ---
 
-##Project Planning
+## Project Planning
 
-1. **Merge & Clean Data:** Standardize column names and formats across 5 years  
-2. **Explore Trends:** Visualize happiness over time and across regions  
-3. **Identify Key Drivers:** Use correlation heatmaps and scatterplots  
-4. **Segment Countries:** Cluster countries based on factor influence  
-5. **Communicate Findings:** Build dashboard and write narrative insights
+1. Merge and clean data across five years  
+2. Explore trends over time and by region  
+3. Identify key happiness drivers using correlation and clustering  
+4. Segment countries using unsupervised learning  
+5. Share findings through dashboard and visual storytelling
 
 ---
 
-##Challenges & Solutions
+## Challenges and Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -51,7 +51,7 @@ The goal was to support policy evaluation and regional recommendations by identi
 
 ---
 
-##Geospatial Analysis
+## Geospatial Analysis
 
 **Key Insights:**
 - Nordic countries (Finland, Denmark, Norway) rank highest in happiness.
@@ -62,10 +62,13 @@ The goal was to support policy evaluation and regional recommendations by identi
   <img src="/images/happiness-map.png" alt="Geospatial Map" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/World_Happiness_map.png" target="_blank">
+  <img src="/images/World_Happiness_map.png" alt="Folium World Map with Happiness Ranks" style="max-width:100%; height:auto;">
+</a>
 
 ---
 
-##Correlation Heatmap
+## Correlation Heatmap
 
 **Key Insights:**
 - Happiness Score and Rank show a near-perfect negative correlation (-0.99).
@@ -76,15 +79,18 @@ The goal was to support policy evaluation and regional recommendations by identi
   <img src="/images/happiness-heatmap.png" alt="Correlation Heatmap" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/World_Happiness_Heatmap.png" target="_blank">
+  <img src="/images/World_Happiness_Heatmap.png" alt="Correlation Table + Heatmap" style="max-width:100%; height:auto;">
+</a>
 
 ---
 
-##Cluster Analysis: Strong Factors
+## Cluster Analysis: Strong Factors
 
 **Key Factors:**  
-- **Economy (GDP per Capita)**  
-- **Health (Life Expectancy)**  
-- **Family (Social Support)**  
+- Economy (GDP per Capita)  
+- Health (Life Expectancy)  
+- Family (Social Support)  
 
 **Key Insights:**
 - These factors had the highest correlation with happiness.
@@ -94,15 +100,26 @@ The goal was to support policy evaluation and regional recommendations by identi
   <img src="/images/happiness-cluster-strong.png" alt="Cluster: Strong Factors" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/World_Happiness_Economy.png" target="_blank">
+  <img src="/images/World_Happiness_Economy.png" alt="Happiness Score vs GDP per Capita" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/World_Happiness_Health.png" target="_blank">
+  <img src="/images/World_Happiness_Health.png" alt="Happiness Score vs Life Expectancy" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/World_Happiness_Family.png" target="_blank">
+  <img src="/images/World_Happiness_Family.png" alt="Happiness Score vs Family Support" style="max-width:100%; height:auto;">
+</a>
 
 ---
 
-##Cluster Analysis: Supporting Factors
+## Cluster Analysis: Supporting Factors
 
 **Key Factors:**  
-- **Freedom**  
-- **Generosity**  
-- **Trust in Government**  
+- Freedom  
+- Generosity  
+- Trust in Government  
 
 **Key Insights:**
 - These factors may enhance well-being when paired with core factors.
@@ -112,10 +129,21 @@ The goal was to support policy evaluation and regional recommendations by identi
   <img src="/images/happiness-cluster-weak.png" alt="Cluster: Supporting Factors" style="max-width:100%; height:auto;">
 </a>
 
+<a href="/images/World_Happiness_Freedom.png" target="_blank">
+  <img src="/images/World_Happiness_Freedom.png" alt="Happiness Score vs Freedom" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/World_Happiness_Generosity.png" target="_blank">
+  <img src="/images/World_Happiness_Generosity.png" alt="Happiness Score vs Generosity" style="max-width:100%; height:auto;">
+</a>
+
+<a href="/images/World_Happiness_Corruption.png" target="_blank">
+  <img src="/images/World_Happiness_Corruption.png" alt="Happiness Score vs Trust in Government" style="max-width:100%; height:auto;">
+</a>
 
 ---
 
-##Interactive Tableau Report
+## Interactive Tableau Report
 
 <a href="https://public.tableau.com/views/WorldHappinessReport2015-2019_17177049296500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
   View Tableau Report
@@ -123,7 +151,7 @@ The goal was to support policy evaluation and regional recommendations by identi
 
 ---
 
-##Conclusions & Recommendations
+## Conclusions and Recommendations
 
 **Summary:**
 - Economy, Family, and Health are the top drivers of happiness.
