@@ -38,6 +38,10 @@ Welcome I'm Andrew Ruhnow, a data analyst with 8+ years of experience in workfor
   Queried a film rental company database with PostgreSQL to generate marketing recommendations, customer segmentation, and business expansion strategies.  
   [_View Project →_](https://andrewruhnow.com/rockbuster)
 
+- **Summit Bank Customer Retention Analysis**  
+  Identified key churn indicators among bank customers using Excel pivot tables and decision tree logic. Focused on inactivity, short tenure, high balance, and low product use.  
+  [_View Project →_](https://andrewruhnow.com/summit)
+
 ## Technical Skills
 
 - **Languages & Tools**: Python, SQL, Excel, Tableau, Jupyter, Git  
