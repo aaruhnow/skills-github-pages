@@ -64,3 +64,18 @@ Used SQL to help a classic video rental company transition to a digital model by
 
 [Read Full Case Study](rockbuster.md)
 
+
+---
+
+## Summit Bank Customer Retention Analysis
+
+In this solo Excel project, I explored client data from Summit Bank to uncover patterns in customer churn. After cleaning and analyzing 991 customer records, I identified the top factors influencing client exit and built a decision tree to visualize risk levels.
+
+- Conducted data quality checks and cleaned client-level attributes
+- Segmented customers by churn status to compare behavioral patterns
+- Identified churn predictors: inactivity, short tenure, poor credit, and high balance
+- Created a decision tree to highlight top churn risk profiles
+
+[View Project →](summit){:target="_blank"}
+
+
